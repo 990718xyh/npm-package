@@ -1,0 +1,22 @@
+{
+  "name": "eslint-rules",
+  "version": "1.0.0",
+  "description": "eslint rules and prettier rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/990718xyh/npm-package/eslint-rules"
+  },
+  "keywords": [
+    "eslint",
+    "prettier"
+  ],
+  "author": {
+    "name": "violent",
+    "email": "www.3541605381@outlook.com"
+  },
+  "license": "MIT"
+}
