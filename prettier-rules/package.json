@@ -1,0 +1,21 @@
+{
+  "name": "@violent/prettier-config",
+  "version": "0.0.1",
+  "description": "prettier config",
+  "scripts": {
+    "lint": "eslint .",
+    "prettier": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/990718xyh/npm-package/tree/master/prettier-rules"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "violent www.3541605381@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/990718xyh/npm-package/issues"
+  }
+}
