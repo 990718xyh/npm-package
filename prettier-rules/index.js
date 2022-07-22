@@ -5,7 +5,7 @@ module.exports = {
     "useTabs": true,
     "semi": true, // 末尾添加分号
     "singleQuote": false, // 使用双引号
-    "quoteProps": "as-needed", // 仅在需要时在对象属性周围添加引号
+    "quoteProps": "consistent", // 如果对象中的至少一个属性需要引号，请引用所有属性。
     "jsxSingleQuote": false, //在jsx中使用双引号
     "trailingComma": "es5", // 在 ES5 中有效的尾随逗号（对象、数组等）。TypeScript 中的类型参数中没有尾随逗号。
     "bracketSpacing": true, // 在对象文字中的括号之间打印空格

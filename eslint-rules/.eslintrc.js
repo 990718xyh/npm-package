@@ -1,3 +1,3 @@
 module.exports = {
-    extends: "@/violent",
+	extends: "@violent",
 };
