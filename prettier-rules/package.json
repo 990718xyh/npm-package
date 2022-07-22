@@ -1,6 +1,6 @@
 {
   "name": "@violent/prettier-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "prettier config",
   "scripts": {
     "lint": "eslint .",
